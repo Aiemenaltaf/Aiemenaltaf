@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 I am a Computer Science graduate and Software Engineer from the University of Engineering and Technology
+- 🎓 I am a Computer Science graduate.
 
 - I am actively working in and expanding my skills in **Artificial Intelligence development**, along with **mobile app development (Flutter, Dart), UX/UI design, and software testing**
 

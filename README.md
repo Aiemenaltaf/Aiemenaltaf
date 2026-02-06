@@ -7,19 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently **a 4th year student at University of Engineering and Technology**
+- 🎓 I am a Computer Science graduate and Software Engineer from the University of Engineering and Technology
 
-- 🌱 I’m currently learning **Mobile App development (in Flutter, Dart), Website testing and UX/UI designing.)**
+- I am actively working in and expanding my skills in **Artificial Intelligence development**, along with **mobile app development (Flutter, Dart), UX/UI design, and software testing**
 
-- 🤝 I acquire a **knowledge of programming languages like C++, Java, Python and C#, database in MySQL, Web development**
+- 🤝 I have hands-on knowledge of **AI development, and programming experience in C++, Java, Python, and C#, as well as MySQL databases and web development**
 
 - 👨‍💻 All of my projects are available at [github/aiemenaltaf](github/aiemenaltaf)
 
-- 💬 Ask me about **sql,js and android**
 
-- 📫 How to reach me **aiemenaltaf.06@gmail.com**
-
-- ⚡ Fun fact **Don't take stress ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
